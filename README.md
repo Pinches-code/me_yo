@@ -10,7 +10,7 @@ I will be sharing educational materials (and beyond), certifications from comple
   🌟  Сontents of the book  
    </div>
 <br>
-[education](education.md)
+
 
 ## 🚀 Contacts
 <div style="background: rgba(46, 204, 113, 0.1); padding: 25px; border-radius: 15px; border-left: 5px solid #2ecc71; margin: 20px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
