@@ -3,8 +3,6 @@ My (hopefully not futile) attempts to master my beloved craft (^˵◕ω◕˵^)
 <br>
 <br>
 <div align="center">
-
-<!-- Анимированный заголовок -->
 <h2 style="font-size: 4em; 
            background: linear-gradient(45deg, #ff6b6b, #4ecdc4);
            -webkit-background-clip: text;
