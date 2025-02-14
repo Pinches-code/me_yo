@@ -39,9 +39,36 @@ ORDER BY year
 |...|...|
 
 **Визуализация**
-![image](https://github.com/user-attachments/assets/649ee4c6-7e8b-417b-b601-64e073f729dd)
 
+<img src="https://github.com/user-attachments/assets/649ee4c6-7e8b-417b-b601-64e073f729dd" width="400"  />
 
 **Ответ:** Количество пассажиров за рассматриваемый период росло.
+
+**Вопрос 2 - Из каких городов приехало наибольшее количество пассажиров за последние 5 лет?**
+
+**Запрос SQL:**      
+SELECT city_name, SUM(passangers) as 'sum_pass'       
+FROM transportation          
+INNER JOIN cities ON cities.city_id = transportation.departure_id         
+WHERE arrival_id = 2 and year BETWEEN 2013 and 2018         
+GROUP BY city_name       
+ORDER BY sum_pass DESC      
+**Результат запроса:**  
+|Таблица 2 |Результат запроса 2|
+|---|---|
+|city_name	|sum_pass|
+|Москва	|24617069|
+|Петрозаводск	|1634680|
+|Тверь	|935233|
+|Нижний |Новгород	|741130|
+|...|...|
+
+**Визуализация**
+
+<img src="https://github.com/user-attachments/assets/485f8a30-2119-4299-bbf7-9dad11cf7e86" width="400"  />
+
+**Ответ:** Наибольшее количество пассажиров приехало из Москвы.
+
+
 
 
