@@ -7,6 +7,8 @@ Each course was intentionally selected as a step in bridging knowledge gaps—pr
 Such a learning framework not only helped offset the absence of an academic background in data science but also cultivated an interdisciplinary perspective for solving analytical challenges.
 
 
-## Google Data Analytics Professional certification ##
+## Google Data Analytics Professional certification  ##
 
 <img src="https://github.com/user-attachments/assets/c50490fa-f76f-49e3-9af0-57ae419654b4" width="500"  />
+
+jul/30/2024 - The course provided structured knowledge in data analysis: I mastered SQL, Tableau, R, and practiced data cleaning and visualization. The hands-on assignments, especially the final case study, helped solidify my skills. The downside is that some topics were covered superficially (e.g., machine learning), but it’s a decent starting point. Plus, it was good language practice, naturally. I also appreciate the opportunity to learn for free.
