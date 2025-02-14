@@ -8,6 +8,12 @@ Such a learning framework not only helped offset the absence of an academic back
 
 ## IBM Data Analytics Professional certification ##
 
+<img src="https://github.com/user-attachments/assets/47ec516f-886d-491c-95e6-4117e2e534d0" width="500"  />
+
+sep/22/2024 - The course helped me master creating charters, roadmaps, risk management, and Agile methodologies. Hands-on practice with real-world cases (budgeting, stakeholder communication) taught me to document processes in Asana and Jira. The downside is the limited in-depth KPI analysis, but it’s sufficient for a foundational level.
+
+## IBM Data Analytics Professional certification ##
+
 <img src="https://github.com/user-attachments/assets/cacda939-67ce-4657-9f07-a930d654d364" width="500"  />
 <img src="https://github.com/user-attachments/assets/b10ca6ea-f2b0-48e2-b997-9f8193d18796" width="500"  />
 
