@@ -9,4 +9,4 @@ Such a learning framework not only helped offset the absence of an academic back
 
 ## Google Data Analytics Professional certification ##
 
-
+<img src="https://github.com/user-attachments/assets/c50490fa-f76f-49e3-9af0-57ae419654b4" width="500"  />
