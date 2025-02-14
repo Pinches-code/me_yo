@@ -16,6 +16,7 @@ jan/2025 - The course provided a solid foundation: I mastered Python syntax, wor
 
 <img src="https://github.com/user-attachments/assets/ff83f62d-445d-48d7-a0e7-82083624f201" width="500"  />
 
+nov/2024 - The hackathon sharpened my algorithmic thinking skills: I tackled problems involving graphs, code optimization, and probabilistic calculations. The semifinal practice taught me to analyze requirements swiftly and test solutions; the task on minimizing base station connections via sum parity stood out as particularly memorable.
 
 ## IBM Data Analytics Professional certification ##
 
