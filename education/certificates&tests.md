@@ -36,3 +36,16 @@ jul/30/2024 - The course provided structured knowledge in data analysis: I maste
 <img src="https://github.com/user-attachments/assets/bb86909e-16db-4297-8c36-8acfdf750e44" width="500"  />
 
 jul/21/2024 - The course provided an in-depth understanding of ML: from linear regression to neural networks (TensorFlow, Keras). Real-world projects (image recognition, text processing) taught me to build and optimize models. A major plus was the focus on mathematics (gradient descent, backpropagation) without fluff. The downside is that challenging assignments require prior basic knowledge of Python and linear algebra. The course helped me systematize my knowledge for working with advanced algorithms.
+
+## Профессиональная переподготовка «Аналитик данных»|Professional retraining “Data Analyst” ##
+
+<img src="https://github.com/user-attachments/assets/9b377be5-6308-498d-a9a6-a83020abb0c6" width="300"  />
+<img src="https://github.com/user-attachments/assets/795fffb5-a446-4d3b-8f5f-0fdd45325227" width="300"  />
+
+jun/02/2024 - I mastered Python (Pandas, NumPy), SQL analytics, Power BI visualization, and basic machine learning. Hands-on practice with real-world cases helped refine my skills. Regular communication with instructors allowed me to clarify details that were unclear during the sessions.
+
+## English for Career Development|University of Pennsylvania (Penn) ##
+
+<img src="https://github.com/user-attachments/assets/283a45cc-a17a-4d57-98f9-3fe7268e6267" width="500"  />
+
+apr/05/2024 - I learned to structure resumes for ATS (Applicant Tracking Systems), write achievement-focused cover letters, practice STAR-method interviews, and negotiate in English. Practice with simulations (mock interviews, case study breakdowns) and LinkedIn templates boosted my confidence. A major plus was the focus on cultural nuances (e.g., how to present experience for US/EU companies). The downside is the limited in-depth grammar coverage, but it was sufficient for career goals.
