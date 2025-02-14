@@ -222,19 +222,5 @@ ORDER BY year, month_number
 
 Дашборд был создан с помощью Power Bi. Для создания дашборда использовались корпоративные цвета ОАО «РЖД». 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/user-attachments/assets/42f43cc0-4b28-46d5-aa0b-88427b777fdd" width="500"  />
+<img src="https://github.com/user-attachments/assets/05608dbc-9c9e-4b8a-a239-7a5dfd6ca4a4" width="500"  />
