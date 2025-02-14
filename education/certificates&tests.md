@@ -12,6 +12,11 @@ Such a learning framework not only helped offset the absence of an academic back
 
 jan/2025 - The course provided a solid foundation: I mastered Python syntax, working with collections, functions (including generators and decorators), OOP (object-oriented programming), and core modules (file handling, datetime). Hands-on practice with real projects helped automate routine tasks and write clean code — from simple scripts to mini-applications. Pros: free format with flexible scheduling, automated assignment checks, and access to mentors for guidance. The downside is the superficial coverage of advanced topics (e.g., metaclasses were not covered), but it’s enough to get started.
 
+##  МТС True Tech Champ  ##
+
+<img src="https://github.com/user-attachments/assets/ff83f62d-445d-48d7-a0e7-82083624f201" width="500"  />
+
+
 ## IBM Data Analytics Professional certification ##
 
 <img src="https://github.com/user-attachments/assets/47ec516f-886d-491c-95e6-4117e2e534d0" width="500"  />
