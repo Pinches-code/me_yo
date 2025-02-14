@@ -44,5 +44,8 @@ Personal: Love dissecting horror movie plots and painting with oils while listen
 - ✈️ @Elizaveta_Shulaeva 
 - 📬  elizavetq2@gmail.com
 
-
-
+   </div>
+<br>
+<br>
+<div align="center">
+Russia-Moscow-2025y-ElizavetaSV
