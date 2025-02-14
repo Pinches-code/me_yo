@@ -21,7 +21,7 @@ Personal: Love dissecting horror movie plots and painting with oils while listen
 
 <div align="center">
 
-## 📚 Сontents of the book 📚
+## 📚 Сontents 📚
    </div>
 <br>
 
