@@ -1,5 +1,5 @@
 # me_yo
-My (hopefully not futile) attempts to master my beloved craft (^˵◕ω◕˵^)  
+Something like my portfolio (^˵◕ω◕˵^)  
 I will be sharing educational materials (and beyond), certifications from completed courses, professional recommendations, and other work-related artifacts documenting my journey in data analytics.
 <div align="center">
 
