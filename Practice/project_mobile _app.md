@@ -63,7 +63,7 @@ User Stories:
 Слайд 2                              
 <img src="https://github.com/user-attachments/assets/bcf5fd9f-1799-44a5-a9ae-c437b1176abd" width="700"  />               
 Слайд 3                      
-<img src="https://github.com/user-attachments/assets/3c05f397-dcb5-45aa-b867-ce609f37b2a9" width="700"  />              
+<img src="https://github.com/user-attachments/assets/5f8d82d4-24d1-4d14-92c9-88b6cf2b48c6" width="700"  />              
 Слайд 4                        
 <img src="https://github.com/user-attachments/assets/540bf21c-4f25-4db4-ab27-3ba4a0d0627a" width="700"  />                  
 Слайд 5                     
