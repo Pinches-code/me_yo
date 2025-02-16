@@ -58,8 +58,16 @@ User Stories:
 
 ## Этап 5: Презентация результатов
 
-Слайд 1: Титульный лист         
-![image](https://github.com/user-attachments/assets/428cb979-830a-48a4-91b5-036361e82cfb)
+Слайд 1        
+<img src="https://github.com/user-attachments/assets/428cb979-830a-48a4-91b5-036361e82cfb" width="700"  />          
+Слайд 2                              
+<img src="https://github.com/user-attachments/assets/bcf5fd9f-1799-44a5-a9ae-c437b1176abd" width="700"  />               
+Слайд 3                      
+<img src="https://github.com/user-attachments/assets/3c05f397-dcb5-45aa-b867-ce609f37b2a9" width="700"  />              
+Слайд 4                        
+<img src="https://github.com/user-attachments/assets/540bf21c-4f25-4db4-ab27-3ba4a0d0627a" width="700"  />                  
+Слайд 5                     
+<img src="https://github.com/user-attachments/assets/90e3aef7-cead-4d92-809e-1be6aa9f656f" width="700"  />           
 
-Слайд 2: Цели и стейкхолдеры         
+
 
