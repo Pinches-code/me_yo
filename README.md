@@ -27,7 +27,7 @@ Personal: Love dissecting horror movie plots and painting with oils while listen
 
 - **Education** - certificates or test results.
 - **Practice** – academic and other projects in big data analysis and visualization.
-- **Projects**
+- **Projects** - a little about the completed projects.
 
 </div>
 <div align="center">
