@@ -16,7 +16,7 @@ My strength:
 - cross-disciplinary perspective,              
 - proactivity and a sense of ownership.
 
-More details can be found in the "Work Experience" section
+More details can be found in my resume, сontact me via email
 
 Work philosophy: **Dislike "work for work’s sake"** — always seek to improve outcomes through optimization. 
 
