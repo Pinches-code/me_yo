@@ -20,7 +20,7 @@ More details can be found in the "Work Experience" section
 
 Work philosophy: **Dislike "work for work’s sake"** — always seek to improve outcomes through optimization. 
 
-Personal: I'm a highly energetic (sometimes excessively so!) and proactive person. I love tasks that demand creativity and truly enjoy building entirely new solutions from the ground up.
+Personal: I'm a highly energetic (sometimes excessively so!) and proactive person. I love tasks that demand creativity and truly enjoy building entirely new solutions from the ground up. And im 21 y.o. 
 
 **Don’t wait for perfect conditions — start acting, because you’re the one who creates them.**
 
@@ -33,7 +33,6 @@ Personal: I'm a highly energetic (sometimes excessively so!) and proactive perso
 <br>
 
 - **Education** - certificates or test results.
-- **Work Experience** – my resume.
 - **Practice** - my pet-project and little about the real ones.
 - **Examples** - a little more about the completed projects.
 
