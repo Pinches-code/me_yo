@@ -38,10 +38,6 @@ Personal: I'm a highly energetic (sometimes excessively so!) and proactive perso
 
 </div>
 <div align="center">
-
-<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="20%">
-
-<div align="center">
            
 ## 🚀 Contacts
 
