@@ -34,6 +34,7 @@ Personal: I'm a highly energetic (sometimes excessively so!) and proactive perso
 
 - **Education** - certificates or test results.
 - **Work Experience** – my resume.
+- **Practice** - my pet-project and little about the real ones.
 - **Examples** - a little more about the completed projects.
 
 </div>
