@@ -1,10 +1,18 @@
 **This section showcases the educational programs, professional development courses, and specialized training I have completed in preparation for a career in data analysis.**
 
-At first glance, the number of courses may appear excessive. However, this is a reflection of deliberate necessity: lacking a formal foundational education in this field, I adopted a systematic approach to building both theoretical knowledge and practical skills.     
+At first glance, the number of courses may appear excessive. However, this is a reflection of deliberate necessity: lacking a formal foundational education in this field (at the time), I adopted a systematic approach to building both theoretical knowledge and practical skills.     
 
 Each course was intentionally selected as a step in bridging knowledge gaps—progressing from core statistics and data handling to advanced machine learning techniques. This structured, phased approach was designed to establish a robust foundation for ongoing professional development, which accounts for the diversity of programs listed here.      
 
 Such a learning framework not only helped offset the absence of an academic background in data science but also cultivated an interdisciplinary perspective for solving analytical challenges.
+
+Aaand here we go!
+
+## Бакалавриат РУТ МИИТ
+
+<img width="845" height="1280" alt="image" src="https://github.com/user-attachments/assets/f9ef90ea-7e52-4ef0-83a3-28761962369f" />
+
+jul/2025 - Hooray! I'm officially a person with a degree now) and yes, with another honors diploma 😂
 
 ## Базовый Python|VK education ##
 
