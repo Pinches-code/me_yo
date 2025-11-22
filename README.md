@@ -1,13 +1,19 @@
 # me_yo
 Something like my portfolio (^˵◕ω◕˵^)  
-I will be sharing educational materials (and beyond), certifications from completed courses, professional recommendations, and other work-related artifacts documenting my journey in data analytics.
+Here you can find information about my work experience and my studies in data analytics.
 <div align="center">
 
 ## 🌺 About me 🌺
    </div>
    
-**Data Analyst with 2.5+ years of experience.** Specializing in process automation, statistical analysis, and data visualization. Proficient in SQL, Python, Power BI, VBA, and MS Excel.
-My strength: Transforming routine tasks into efficient algorithms — reduced key report generation time by 75%, developed 10+ automation templates, and trained 30+ colleagues in their use.
+**Data Analyst with 3.5+ years of experience.** My areas of expertise are reporting automation and process modeling. Proficient in SQL, Python, Power BI, MS Excel (VBA, query, pivot), Aris, Sila union, Jupiter, Google Collab and many else.
+My strength: 
+- transforming routine tasks into efficient algorithms,   
+- ability to identify patterns and derive insights from data,    
+- solid foundation in process modeling and description,           
+- experience managing teams of up to 5 people,            
+- cross-disciplinary perspective,              
+- proactivity and a sense of ownership.
 
 Participated in large-scale projects: From creating a statistical handbook for OJSC Russian Railways (archival data analysis) to optimizing HR strategies for a state-owned company. I believe even complex tasks can be broken into steps — just start and move forward incrementally.
 
