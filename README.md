@@ -7,6 +7,7 @@ Here you can find information about my work experience and my studies in data an
    </div>
    
 **Data Analyst with 3.5+ years of experience.** My areas of expertise are reporting automation and process modeling. Proficient in SQL, Python, Power BI, MS Excel (VBA, query, pivot), Aris, Sila union, Jupiter, Google Collab and many else.
+
 My strength: 
 - transforming routine tasks into efficient algorithms,   
 - ability to identify patterns and derive insights from data,    
@@ -15,11 +16,11 @@ My strength:
 - cross-disciplinary perspective,              
 - proactivity and a sense of ownership.
 
-Participated in large-scale projects: From creating a statistical handbook for OJSC Russian Railways (archival data analysis) to optimizing HR strategies for a state-owned company. I believe even complex tasks can be broken into steps — just start and move forward incrementally.
+More details can be found in the "Work Experience" section
 
-Work philosophy: Value clear goals and pragmatism. **Dislike "work for work’s sake"** — always seek to improve outcomes through optimization. Currently curating my portfolio in this repository, featuring case studies, experiments with new tools, and automation examples.
+Work philosophy: **Dislike "work for work’s sake"** — always seek to improve outcomes through optimization. 
 
-Personal: Love dissecting horror movie plots and painting with oils while listening to podcasts. Firmly believe creativity and attention to detail are integral to analytics.
+Personal: I'm a highly energetic (sometimes excessively so!) and proactive person. I love tasks that demand creativity and truly enjoy building entirely new solutions from the ground up.
 
 **Don’t wait for perfect conditions — start acting, because you’re the one who creates them.**
 
@@ -32,8 +33,8 @@ Personal: Love dissecting horror movie plots and painting with oils while listen
 <br>
 
 - **Education** - certificates or test results.
-- **Practice** – academic and other projects in big data analysis and visualization.
-- **Projects** - a little about the completed projects.
+- **Work Experience** – my resume.
+- **Examples** - a little more about the completed projects.
 
 </div>
 <div align="center">
@@ -48,7 +49,7 @@ Personal: Love dissecting horror movie plots and painting with oils while listen
 <div align="left">
            
 - ✈️ @Elizaveta_Shulaeva 
-- 📬  elizavetq2@gmail.com
+- 📬  elizavetq2@gmail.com / 
 
    </div>
 <br>
