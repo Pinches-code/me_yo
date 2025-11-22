@@ -8,13 +8,17 @@ Such a learning framework not only helped offset the absence of an academic back
 
 Aaand here we go!
 
-## Бакалавриат РУТ МИИТ
+## Master's Degree, HSE University ##
+sep/2025 - 
+
+
+## Bachelor's Degree, Russian University of Transport (RUT MIIT) ##
 
 <img width="282" height="427" alt="image" src="https://github.com/user-attachments/assets/f9ef90ea-7e52-4ef0-83a3-28761962369f" />
 
 jul/2025 - Hooray! I'm officially a person with a degree now) and yes, with another honors diploma 😂
 
-## Базовый Python|VK education ##
+## Base Python|VK education ##
 
 <img src="https://github.com/user-attachments/assets/9c823103-6feb-4c3f-a0c2-043ba66611eb" width="500"  />
 
