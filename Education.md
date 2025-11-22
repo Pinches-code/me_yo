@@ -6,11 +6,11 @@ Each course was intentionally selected as a step in bridging knowledge gaps—pr
 
 Such a learning framework not only helped offset the absence of an academic background in data science but also cultivated an interdisciplinary perspective for solving analytical challenges.
 
-Aaand here we go!
+Aaand here we go! 🔥
 
 ## Master's Degree, HSE University ##
-sep/2025 - 
 
+sep/2025 - I've been admitted to the Master's in Applied Maths and Computer Science at HSE University for Big Data Analytics!
 
 ## Bachelor's Degree, Russian University of Transport (RUT MIIT) ##
 
