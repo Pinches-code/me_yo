@@ -44,7 +44,7 @@ Personal: I'm a highly energetic (sometimes excessively so!) and proactive perso
 <br>
 <div align="left">
            
-- <img width="298" height="169" alt="image" src="https://github.com/user-attachments/assets/493932fe-4b1e-4dd8-aa60-ca10b8678aec" />
+- <img width="62" height="62" alt="image" src="https://github.com/user-attachments/assets/cd2ad48b-1756-4468-b6bc-073fcf953a63" />
  @Elizaveta_Shulaeva 
 - 📬  elizavetq2@gmail.com / ShulaevaLizz@yandex.ru
 
