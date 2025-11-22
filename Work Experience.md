@@ -2,7 +2,7 @@
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/cd2ad48b-1756-4468-b6bc-073fcf953a63" />  @Elizaveta_Shulaeva 
 - 📬  ShulaevaLizz@yandex.ru
 
-*** Опыт работы 3 года 3 месяца ***
+***Опыт работы 3 года 3 месяца***
 Июнь 2025 - н.в.
 5 месяцев
 РОССЕЛЬХОЗБАНК
