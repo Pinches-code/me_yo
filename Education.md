@@ -10,7 +10,7 @@ Aaand here we go!
 
 ## Бакалавриат РУТ МИИТ
 
-<img width="845" height="1280" alt="image" src="https://github.com/user-attachments/assets/f9ef90ea-7e52-4ef0-83a3-28761962369f" />
+<img width="282" height="427" alt="image" src="https://github.com/user-attachments/assets/f9ef90ea-7e52-4ef0-83a3-28761962369f" />
 
 jul/2025 - Hooray! I'm officially a person with a degree now) and yes, with another honors diploma 😂
 
